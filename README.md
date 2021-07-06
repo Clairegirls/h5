@@ -23,7 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-主页h5总目录
+下图主页h5总目录
 
 ![image](https://user-images.githubusercontent.com/22394261/124567366-842d4a80-de76-11eb-9448-67533868adb7.png)
 
