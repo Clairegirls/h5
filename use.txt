@@ -1,8 +1,13 @@
 1、每个独立h5以src/pages/page1为例，路由独立
-2、在src下router/router.js中设置主目录路由
+2、在src下router/router.js中设置主页总目录路由
 3、单独打包一个独立h5如：page1
 运行，npm run build page1在dist生成相应打包文件
 4、http-server可查看打包后文件效果
+npm install http-server -g
+cd dist
+http-server
+
+ctrl+c退出
 
 注意：
 主页总目录白屏，注意独立子目录也要挂载到主目录下app.vue的#app元素下
